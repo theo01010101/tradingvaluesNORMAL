@@ -1,26 +1,26 @@
 ## Fruit chest:
 Rare fruit chest: 32
 Legendary fruit chest: 150
-Mythical chest: 8500
+Mythical chest: 10000
 
 ## Fruits:
 Ito: 5
 Paw: 8
 Kage: 10
 Goro: 25
-Yami: 30
+Yami: 20
 Hie: 15
-Gura: 40
-Zushi: 40
-Yuki: 25
-Pika: 350
-Magu: 110
+Gura: 60
+Zushi: 50
+Yuki: 20
+Pika: 375
+Magu: 100
 Suna: 95
-Mera: 60
-Tori: 2500
-Mochi: 4900
-Venom: 15400
-Ope: 8500
+Mera: 50
+Tori: 2850
+Mochi: 5600
+Venom: 17000
+Ope: 9900
 Spring: 5
 
 ## Itens:
@@ -34,42 +34,42 @@ Sign: 50
 Karoo: 50
 Golden hammer: 50
 Thrilled ship: 175
-Hoverboard: 800
-Coffin: 475
-Striker: 525
-All seeing eye: 15250
+Hoverboard: 110
+Coffin: 650
+Striker: 600
+All seeing eye: 18750
 
 ## Swords:
-Pole: 5
-Kiribachi: 20
-Golden hook: 10
+Pole: 20
+Kiribachi: 30
+Golden hook: 15
 Bisento: 55
 Moria scissors: 15
 Crab cutlass: 50
 Shusui: 100
 Trident: 200
 Gravity blade: 60
-Soul cane: 1000
+Soul cane: 1250
 Pipe: 300
-Gauntlets: 150
-Kikoku: 19000
+Gauntlets: 110
+Kikoku: 23000
 
 ## Accessory:
-White beard’s cape: 25
-Crocodile's Cape: 25
-Tomoi drums: 375
+White beard’s cape: 150
+Crocodile's Cape: 45
+Tomoi drums: 400
 Musashi hat: 15
 Musashi karuta: 15
 Ryuma outfit: 30
-Ryuma Scarf: 325
+Ryuma Scarf: 350
 Pika armor: 40
 Pika helmet: 20
 Borj armor: 25
-Batswarm: 450
+Batswarm: 600
 Moria hat: 10
 Moria fit: 10
 Doffy fit: 25
-Doffy shades: 175
+Doffy shades: 140
 Doffy cape: 100
 Law fit: 50
 Law hat: 40
@@ -79,12 +79,14 @@ Lucy fit: 150
 Lucy cape: 100
 Regular Soulking Violin: 75
 Regular Soulking Fit: 75
-Regular Soulking TopHat: 75
+Regular Soulking TopHat: 10
 Rockstar Soulking Fit: 300
-Rockstar Soulking Guitar: 1000
+Rockstar Soulking Guitar: 1200
 Rockstar Soulking Hat: 200
 Rockstar Soulking Shades: 20
-Soulking Scarf: 25000
+Soulking Scarf: 31000
+
+## Sea Beast Drops:
 Sea beast Core: 200
 Sea beast Mask: 50
 Sea beast Armor: 30
@@ -134,18 +136,21 @@ Legendary tier: 15
 Elf Hat: 100
 Santa Hat: 800
 Bell: 180
-Candy Cane: 56500
+Candy Cane: 73500
 
 ### First Valentine Event
 Flamingo Boat: 350
-Flowers: 8000
+Flowers: 10000
 
 ### Easter Event
-Elo hammer: 650
+Elo hammer: 750
 Elo Egg: 1200
 Rainbow egg: 100
 Pink egg: 100
 Wonder egg: 120
+Golden egg: 200
+Mini bunny: 500
+Mini bunny egg: 200
 
 ### Baal drops
 Ball cape: 10
@@ -155,27 +160,27 @@ Baal head: 600
 ### Jester drops
 Jester hat: 100
 Jester box: 150
-Jester fit: 21000
-Jester Scythe :235
+Jester fit: 26000
+Jester Scythe :275
 
 ### Second Valentine Event
-Cupid dress (queen fit): 1900
-Cupid wings: 1250
+Cupid dress (queen fit): 2400
+Cupid wings: 1500
 Cupid wand: 400
-Cupid headband: 400
+Cupid headband: 550
 Cupid battleaxe: 50
 Wing of roses: 15
 Cupid boat: 15
 Cupid Mask: 15
 
 ### Festival items
-Festival lancer: 275
-Festival shield: 175
+Festival lancer: 350
+Festival shield: 200
 
 ### Battle Royale
-World ender: 6800
-Iceborn dagger: 600
-Iceborn rapier: 1800
+World ender: 8450
+Iceborn dagger: 650
+Iceborn rapier: 2300
 Ten Tails Jinchuriki: 450
 Thunder Haori: 350
 Black bull: 200
@@ -185,15 +190,15 @@ Aniversary Cap: 10
 Aniversary Hat: 10
 Aniversary Shades: 50
 Aniversary Lantern: 200
-Inferno Rocket Blade: 100
-Firework Lancer: 225
+Inferno Rocket Blade: 150
+Firework Lancer: 350
 
 ### Prestige
-Prestige Candy Cane: 180000
-Prestige Fruit Bag: 34000
-Prestige Inferno Rocket Blade: 105000
-Prestige Fire Work Lancer: 120000
+Prestige Candy Cane: 247000
+Prestige Fruit Bag: 43000
+Prestige Inferno Rocket Blade: 135000
+Prestige Fire Work Lancer: 155000
 
-`Valores atualizados em: 22/7/2023`
+`Valores atualizados em: 23/7/2023`
 
 *Obs: Caso você considere que algum valor esta errado, por favor se sinta bem-vindo(a) a entrar em contato com o suporte*
