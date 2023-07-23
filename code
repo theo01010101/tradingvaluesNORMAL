@@ -1,1 +1,77 @@
 
+import discord
+from discord.ext import commands, tasks
+import requests
+
+
+
+Prefix = "!"
+intents = discord.Intents.default()
+bot = commands.Bot(command_prefix=Prefix, intents=intents)
+url_do_gist = "https://raw.githubusercontent.com/theo01010101/tradingvaluesNORMAL/main/Values"
+canal_especifico_id = "1122988302350438432"
+
+
+
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+    if message.content == f"{Prefix}Olá":
+        await message.channel.send(f"Olá {message.author.name}")
+    await bot.process_commands(message)
+
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+    if message.content == f"{Prefix}Oi":
+        await message.channel.send(f"Olá {message.author.name}")
+    await bot.process_commands(message)
+
+
+
+
+# Função para obter o conteúdo do arquivo Markdown
+def obter_conteudo_gist(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.text
+    else:
+        raise Exception(f"Erro ao obter o conteúdo do arquivo. Código de status: {response.status_code}")
+
+# Função para formatar o conteúdo do arquivo Markdown
+def formatar_conteudo_markdown(conteudo):
+    # Aqui você pode fazer a formatação do conteúdo, se necessário
+    # Por exemplo, separar as informações em categorias, etc.
+    return conteudo
+
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+    if message.content == f"{Prefix}tradelist" and message.channel.id == 1122988302350438432:
+
+        mensagem = formatar_conteudo_markdown(obter_conteudo_gist(url_do_gist))
+        embed = discord.Embed(
+         title="",
+         description=mensagem,
+        color=discord.Color.dark_theme()
+        )
+        await message.channel.purge(limit=20)
+        await message.channel.send(embed=embed)
+        await bot.process_commands(message)
+
+
+
+
+@bot.event
+async def on_ready():
+    print(f"Bot {bot.user.name} está funcionando.")
+
+
+
+bot.run("MTEzMjM4NTMxODk5ODM4ODg0Ng.GPmsk6.so-YSYsvjnO3M3IKTC6855FlKmYWCxy9FufHiI")
+
+
+
