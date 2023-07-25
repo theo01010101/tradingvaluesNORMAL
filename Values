@@ -13,14 +13,14 @@ Hie: 15
 Gura: 60
 Zushi: 50
 Yuki: 20
-Pika: 375
+Pika: 350
 Magu: 100
 Suna: 95
 Mera: 50
 Tori: 2850
-Mochi: 5600
-Venom: 17500
-Ope: 10000
+Mochi: 5700
+Venom: 17000
+Ope: 9250
 Spring: 5
 
 ## Itens:
@@ -28,15 +28,15 @@ Spare fruit bag: 400
 Devil fruit journal: 400
 SP Reset: 15
 Dark root: 50
-Bomi’s log pose: 60
+Bomi’s log pose: 125
 Drip fit: 80
 Sign: 50
-Karoo: 50
+Karoo: 100
 Golden hammer: 50
 Thrilled ship: 175
 Hoverboard: 1100
-Coffin: 650
-Striker: 600
+Coffin: 700
+Striker: 650
 All seeing eye: 19000
 
 ## Swords:
@@ -47,12 +47,12 @@ Bisento: 55
 Moria scissors: 15
 Crab cutlass: 50
 Shusui: 175
-Trident: 250
+Trident: 225
 Gravity blade: 60
-Soul cane: 1250
+Soul cane: 1300
 Pipe: 250
 Gauntlets: 200
-Kikoku: 23000
+Kikoku: 23500
 
 ## Accessory:
 White beard’s cape: 125
@@ -88,7 +88,7 @@ Rockstar Soulking Shades: 20
 Soulking Scarf: 30000
 
 ## Sea Beast Drops:
-Sea beast Core: 200
+Sea beast Core: 250
 Sea beast Mask: 50
 Sea beast Armor: 30
 
@@ -137,7 +137,7 @@ Legendary tier: 15
 Elf Hat: 100
 Santa Hat: 800
 Bell: 180
-Candy Cane: 75000
+Candy Cane: 78000
 
 ### First Valentine Event
 Flamingo Boat: 500
@@ -155,24 +155,24 @@ Mini bunny: 200
 
 ### Baal drops
 Ball cape: 10
-Hollow fang: 200
-Baal head: 650
+Hollow fang: 250
+Baal head: 6750
 
 ### Jester drops
 Jester hat: 100
 Jester box: 150
 Jester fit: 25250
-Jester Scythe :350
+Jester Scythe: 350
 
 ### Second Valentine Event
 Cupid dress (queen fit): 2400
-Cupid wings: 1500
-Cupid wand: 400
-Cupid headband: 550
+Cupid wings: 1550
+Cupid wand: 450
+Cupid headband: 525
 Cupid battleaxe: 50
 Wing of roses: 15
 Cupid boat: 15
-Cupid Mask: 15
+Cupid Mask: 200
 
 ### Festival items
 Festival lancer: 350
@@ -180,10 +180,10 @@ Festival shield: 200
 
 ### Battle Royale
 World ender: 8500
-Iceborn dagger: 650
+Iceborn dagger: 750
 Iceborn rapier: 2300
 Ten Tails Jinchuriki: 450
-Thunder Haori: 350
+Thunder Haori: 450
 Black bull: 200
 
 ### Aniversary Items
@@ -195,10 +195,10 @@ Inferno Rocket Blade: 150
 Firework Lancer: 350
 
 ### Prestige
-Prestige Candy Cane: 260000
+Prestige Candy Cane: 265000
 Prestige Fruit Bag: 44000
-Prestige Inferno Rocket Blade: 141000
-Prestige Fire Work Lancer: 165000
+Prestige Inferno Rocket Blade: 145000
+Prestige Fire Work Lancer: 170000
 
 `Valores atualizados em: 24/7/2023`
 
