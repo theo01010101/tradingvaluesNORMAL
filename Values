@@ -1,12 +1,12 @@
 ## Fruit chest:
 Rare fruit chest: 40
 Legendary fruit chest: 150
-Mythical chest: 10250
+Mythical chest: 9850
 
 ## Fruits:
 Ito: 5
 Paw: 8
-Kage: 10
+Kage: 20
 Goro: 25
 Yami: 20
 Hie: 15
@@ -17,7 +17,7 @@ Pika: 350
 Magu: 100
 Suna: 95
 Mera: 50
-Tori: 2850
+Tori: 2900
 Mochi: 5700
 Venom: 17000
 Ope: 9250
@@ -33,8 +33,8 @@ Drip fit: 80
 Sign: 50
 Karoo: 100
 Golden hammer: 50
-Thrilled ship: 175
-Hoverboard: 1100
+Thrilled ship: 375
+Hoverboard: 1200
 Coffin: 700
 Striker: 650
 All seeing eye: 19000
@@ -49,10 +49,10 @@ Crab cutlass: 50
 Shusui: 175
 Trident: 225
 Gravity blade: 60
-Soul cane: 1300
+Soul cane: 1350
 Pipe: 250
 Gauntlets: 200
-Kikoku: 23500
+Kikoku: 24000
 
 ## Accessory:
 White beard’s cape: 125
@@ -63,7 +63,7 @@ Musashi karuta: 15
 Ryuma outfit: 30
 Ryuma Scarf: 350
 Pika armor: 40
-Pika helmet: 20
+Pika helmet: 25
 Borj armor: 25
 Batswarm: 650
 Moria necklace: 150
@@ -82,10 +82,10 @@ Regular Soulking Violin: 100
 Regular Soulking Fit: 75
 Regular Soulking TopHat: 10
 Rockstar Soulking Fit: 300
-Rockstar Soulking Guitar: 1200
+Rockstar Soulking Guitar: 1400
 Rockstar Soulking Hat: 200
 Rockstar Soulking Shades: 20
-Soulking Scarf: 30000
+Soulking Scarf: 32000
 
 ## Sea Beast Drops:
 Sea beast Core: 250
@@ -115,13 +115,13 @@ Great Sword: 25
 Cape: 15
 
 ### Purple:
-Armor: 100
-Great Sword: 100
+Armor: 200
+Great Sword: 150
 Cape: 20
 
 ### Azure:
-Armor: 1300
-Great Sword: 1300
+Armor: 1950
+Great Sword: 1600
 Cape: 100
 
 Kraken Core: 75
@@ -141,7 +141,7 @@ Candy Cane: 78000
 
 ### First Valentine Event
 Flamingo Boat: 500
-Flowers: 10250
+Flowers: 10400
 
 ### Easter Event
 Elo hammer: 750
@@ -156,7 +156,7 @@ Mini bunny: 200
 ### Baal drops
 Ball cape: 10
 Hollow fang: 250
-Baal head: 6750
+Baal head: 750
 
 ### Jester drops
 Jester hat: 100
@@ -166,7 +166,7 @@ Jester Scythe: 350
 
 ### Second Valentine Event
 Cupid dress (queen fit): 2400
-Cupid wings: 1550
+Cupid wings: 1600
 Cupid wand: 450
 Cupid headband: 525
 Cupid battleaxe: 50
@@ -179,11 +179,11 @@ Festival lancer: 350
 Festival shield: 200
 
 ### Battle Royale
-World ender: 8500
+World ender: 8600
 Iceborn dagger: 750
-Iceborn rapier: 2300
+Iceborn rapier: 2600 
 Ten Tails Jinchuriki: 450
-Thunder Haori: 450
+Thunder Haori: 550
 Black bull: 200
 
 ### Aniversary Items
@@ -200,6 +200,6 @@ Prestige Fruit Bag: 44000
 Prestige Inferno Rocket Blade: 145000
 Prestige Fire Work Lancer: 170000
 
-`Valores atualizados em: 24/7/2023`
+`Valores atualizados em: 26/7/2023`
 
 *Obs: Caso você considere que algum valor esta errado, por favor se sinta bem-vindo(a) a entrar em contato com o suporte*
