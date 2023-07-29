@@ -15,4 +15,4 @@ Normalmente, os Adds devem ser inseridos exatamente como estão no **Trading Val
 Os emojis dos Adds podem apresentar problemas se não houver espaços entre eles. Por exemplo:
 `🤖🙂😪😘😊😑😮😃`
 Isso está incorreto porque os emojis não devem estar colados 100% juntos. O bot não consegue ler emojis quando estão agrupados dessa forma. Para corrigir, coloque espaços entre os emojis:
-``🤖 🙂 😪 😘 😊 😑 😮 😃`
+``🤖 🙂 😪 😘 😊 😑 😮 😃``
