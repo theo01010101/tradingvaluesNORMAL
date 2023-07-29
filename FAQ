@@ -1,0 +1,18 @@
+# TRADING BOT FAQ
+
+## O bot não está reconhecendo os Adds
+
+Se o bot não estiver reconhecendo os Adds que você inseriu, verifique os seguintes exemplos para identificar possíveis problemas:
+
+### Caso 1: Erro de escrita
+Certifique-se de que os Adds estão escritos exatamente como estão listados no **Trading Values**, por exemplo: `Mera` e `Mochi`.
+Comando incorreto: `!VerifyTrade mera for mochi`
+
+### Caso 2: Erro de formatação
+Normalmente, os Adds devem ser inseridos exatamente como estão no **Trading Values**. No entanto, há uma exceção quando o nome do Add possui espaços, como por exemplo: `Spare-fruit-bag`. Nesse caso, é necessário substituir os espaços por "-".
+
+### Caso 3: Erro no emoji
+Os emojis dos Adds podem apresentar problemas se não houver espaços entre eles. Por exemplo:
+`:cowboy::face_with_diagonal_mouth::face_with_monocle::disguised_face::full_moon_with_face:`
+Isso está incorreto porque os emojis não devem estar colados 100% juntos. O bot não consegue ler emojis quando estão agrupados dessa forma. Para corrigir, coloque espaços entre os emojis:
+`:cowboy: :face_with_diagonal_mouth: :face_with_monocle: :disguised_face: :full_moon_with_face:`
