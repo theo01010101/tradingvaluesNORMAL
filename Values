@@ -7,24 +7,24 @@ Mythical chest: 10000
 Ito: 5
 Paw: 8
 Kage: 20
-Goro: 25
-Yami: 20
-Hie: 15
+Goro: 15
+Yami: 15
+Hie: 10
 Gura: 40
 Zushi: 40
-Yuki: 20
-Pika: 350
+Yuki: 15
+Pika: 325
 Magu: 100
-Suna: 95
-Mera: 50
+Suna: 125
+Mera: 45
 Tori: 2900
 Mochi: 5600
-Venom: 16000
+Venom: 15500
 Ope: 8750
 Spring: 5
 
 ## Itens:
-Spare fruit bag: 400
+Spare fruit bag: 450
 Devil fruit journal: 400
 SP Reset: 15
 Dark root: 50
@@ -34,8 +34,8 @@ Sign: 50
 Karoo: 100
 Golden hammer: 100
 Thrilled ship: 325
-Hoverboard: 1250
-Coffin: 775
+Hoverboard: 1150
+Coffin: 750
 Striker: 650
 All seeing eye: 19000
 
@@ -49,7 +49,7 @@ Crab cutlass: 50
 Shusui: 175
 Trident: 225
 Gravity blade: 60
-Soul cane: 1550
+Soul cane: 1600
 Pipe: 250
 Gauntlets: 200
 Kikoku: 24600
@@ -65,7 +65,7 @@ Ryuma Scarf: 350
 Pika armor: 40
 Pika helmet: 25
 Borj armor: 25
-Batswarm: 650
+Batswarm: 600
 Moria necklace: 150
 Moria hat: 10
 Moria fit: 10
@@ -141,11 +141,11 @@ Candy Cane: 79000
 
 ### First Valentine Event
 Flamingo Boat: 750
-Flowers: 10800
+Flowers: 11000
 
 ### Easter Event
-Elo hammer: 750
-Elo Egg: 1200
+Elo hammer: 780
+Elo Egg: 1500
 Rainbow egg: 100
 Pink egg: 100
 Wonder egg: 120
@@ -165,8 +165,8 @@ Jester fit: 26000
 Jester Scythe: 350
 
 ### Second Valentine Event
-Cupid dress (queen fit): 2400
-Cupid wings: 1700
+Cupid dress: 2500
+Cupid wings: 1850
 Cupid wand: 450
 Cupid headband: 600
 Cupid battleaxe: 50
@@ -200,6 +200,6 @@ Prestige Fruit Bag: 45000
 Prestige Inferno Rocket Blade: 150000
 Prestige Fire Work Lancer: 187500
 
-`Valores atualizados em: 29/7/2023`
+`Valores atualizados em: 30/7/2023`
 
 *Obs: Caso você considere que algum valor esta errado, por favor se sinta bem-vindo(a) a entrar em contato com o suporte*
