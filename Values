@@ -1,7 +1,7 @@
 ## Fruit chest:
 Rare fruit chest: 45
 Legendary fruit chest: 150
-Mythical chest: 10000
+Mythical chest: 9500
 
 ## Fruits:
 Ito: 5
@@ -15,19 +15,19 @@ Zushi: 40
 Yuki: 15
 Pika: 325
 Magu: 100
-Suna: 125
+Suna: 100
 Mera: 45
-Tori: 2900
-Mochi: 5600
-Venom: 15500
-Ope: 8750
+Tori: 3000
+Mochi: 5750
+Venom: 16000
+Ope: 8500
 Spring: 5
 
 ## Itens:
-Spare fruit bag: 450
+Spare fruit bag: 500
 Devil fruit journal: 400
 SP Reset: 15
-Dark root: 50
+Dark root: 60
 Bomi’s log pose: 125
 Drip fit: 80
 Sign: 50
@@ -52,13 +52,13 @@ Gravity blade: 60
 Soul cane: 1600
 Pipe: 250
 Gauntlets: 200
-Kikoku: 24600
+Kikoku: 25250
 
 ## Accessory:
 White beard’s cape: 125
 Crocodile's Cape: 45
 Cho's Crown: 15
-Tomoi drums: 450
+Tomoi drums: 500
 Musashi hat: 15
 Musashi karuta: 15
 Ryuma outfit: 30
@@ -121,8 +121,8 @@ Great Sword: 150
 Cape: 20
 
 ### Azure:
-Armor: 1950
-Great Sword: 1600
+Armor: 2100
+Great Sword: 1700
 Cape: 100
 
 Kraken Core: 75
@@ -138,11 +138,11 @@ Legendary tier: 15
 Elf Hat: 100
 Santa Hat: 800
 Bell: 180
-Candy Cane: 79000
+Candy Cane: 80000
 
 ### First Valentine Event
 Flamingo Boat: 750
-Flowers: 11000
+Flowers: 11250
 
 ### Easter Event
 Elo hammer: 780
@@ -164,14 +164,14 @@ Baal head: 750
 ### Jester drops
 Jester hat: 100
 Jester box: 150
-Jester fit: 26000
+Jester fit: 26500
 Jester Scythe: 350
 
 ### Second Valentine Event
 Cupid dress: 2500
 Cupid wings: 1850
 Cupid wand: 450
-Cupid headband: 600
+Cupid headband: 650
 Cupid battleaxe: 50
 Wing of roses: 15
 Cupid boat: 15
@@ -182,9 +182,9 @@ Festival lancer: 350
 Festival shield: 200
 
 ### Battle Royale
-World ender: 8750
+World ender: 9000
 Iceborn dagger: 800
-Iceborn rapier: 2700 
+Iceborn rapier: 2850 
 Ten Tails Jinchuriki: 550
 Thunder Haori: 450
 Black bull: 200
@@ -199,7 +199,7 @@ Firework Lancer: 350
 
 ### Prestige
 Prestige Candy Cane: 275000
-Prestige Fruit Bag: 45000
+Prestige Fruit Bag: 46750
 Prestige Inferno Rocket Blade: 150000
 Prestige Fire Work Lancer: 187500
 
