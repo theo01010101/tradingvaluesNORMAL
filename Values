@@ -1,7 +1,7 @@
 ## Fruit chest:
 Rare fruit chest: 42
 Legendary fruit chest: 150
-Mythical chest: 9500
+Mythical chest: 10000
 
 ## Fruits:
 Ito: 5
@@ -14,13 +14,13 @@ Gura: 40
 Zushi: 40
 Yuki: 15
 Pika: 325
-Magu: 100
+Magu: 80
 Suna: 100
 Mera: 45
 Tori: 3000
 Mochi: 5850
-Venom: 15500
-Ope: 8000
+Venom: 16000
+Ope: 8350
 Spring: 5
 
 ## Itens:
@@ -37,7 +37,7 @@ Thrilled ship: 325
 Hoverboard: 1150
 Coffin: 800
 Striker: 700
-All seeing eye: 19000
+All seeing eye: 20000
 
 ## Swords:
 Pole: 20
@@ -52,7 +52,7 @@ Gravity blade: 60
 Soul cane: 1700
 Pipe: 300
 Gauntlets: 200
-Kikoku: 25750
+Kikoku: 26000
 
 ## Accessory:
 White beard’s cape: 125
@@ -86,7 +86,7 @@ Rockstar Soulking Fit: 400
 Rockstar Soulking Guitar: 1450
 Rockstar Soulking Hat: 200
 Rockstar Soulking Shades: 20
-Soulking Scarf: 35000
+Soulking Scarf: 37000
 
 ## Sea Beast Drops:
 Sea beast Core: 275
@@ -138,11 +138,11 @@ Legendary tier: 15
 Elf Hat: 100
 Santa Hat: 800
 Bell: 600
-Candy Cane: 82000
+Candy Cane: 85000
 
 ### First Valentine Event
-Flamingo Boat: 750
-Flowers: 11250
+Flamingo Boat: 800
+Flowers: 12000
 
 ### Easter Event
 Elo hammer: 800
@@ -159,7 +159,7 @@ Bunny Hoodie: 325
 ### Baal drops
 Ball cape: 10
 Hollow fang: 250
-Baal head: 750
+Baal head: 800
 
 ### Jester drops
 Jester hat: 100
@@ -169,7 +169,7 @@ Jester Scythe: 350
 
 ### Second Valentine Event
 Cupid dress: 2600
-Cupid wings: 1850
+Cupid wings: 2000
 Cupid wand: 500
 Cupid headband: 650
 Cupid battleaxe: 50
@@ -182,7 +182,7 @@ Festival lancer: 350
 Festival shield: 200
 
 ### Battle Royale
-World ender: 9000
+World ender: 9750
 Iceborn dagger: 800
 Iceborn rapier: 2900 
 Ten Tails Jinchuriki: 600
@@ -198,30 +198,31 @@ Inferno Rocket Blade: 150
 Firework Lancer: 350
 
 ### Prestige
-Prestige Candy Cane: 275000
-Prestige Fruit Bag: 46550
+Prestige Candy Cane: 280000
+Prestige Fruit Bag: 47500
 Prestige Inferno Rocket Blade: 154000
 Prestige Fire Work Lancer: 188500
 
-### Simple boss drops
-Neptune's Crown: 50
-Marine Captain's Cape: 15
+## Simple boss drops
+Neptune's Crown: 52
+Marine Captain's Cape: 75
 Shark Necklace: 15
 Gravito's Cape: 10
 Guardian's Helmet: 5
-Gorilla King Crown: 30
+Gorilla King Crown: 20
 Buggy's Cape: 7
 Metal Jaw: 0
-Eye Patch: 0
+Eye Patch: -1
+Wood: -1
 
-### Dungeon drops
+## Dungeon drops
 Lantern of Hope: 5
 Flame Scarf: 2
 Ice Necklace: 2
 
 
 
-`Valores atualizados em: 1/8/2023`
+`Valores atualizados em: 3/8/2023`
 Para atualizar a lista, reaja a mensagem com "🔁"
 
 *Obs: Caso você considere que algum valor esta errado, por favor se sinta bem-vindo(a) a entrar em contato com o suporte*
