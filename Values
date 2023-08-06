@@ -15,14 +15,14 @@ Hie: 10 **~**
 Gura: 40
 Zushi: 40
 Yuki: 15
-Pika: 325
+Pika: 300
 Magu: 80
 Suna: 100
 Mera: 45
-Tori: 3000 **~**
-Mochi: 5850 **^**
+Tori: 2850 **~**
+Mochi: 5900 **^**
 Venom: 17000 **~**
-Ope: 8900 **~**
+Ope: 8700 **~**
 Spring: 5
 
 ## Itens:
@@ -52,7 +52,7 @@ Shusui: 175
 Trident: 225
 Gravity blade: 60
 Soul cane: 1700
-Pipe: 300
+Pipe: 250
 Gauntlets: 200
 Kikoku: 30200 **^**
 
@@ -118,14 +118,14 @@ Great Sword: 25
 Cape: 15
 
 ### Purple:
-Armor: 200
-Great Sword: 150
+Armor: 200 **^**
+Great Sword: 150 **^**
 Cape: 20
 
 ### Azure:
-Armor: 2100
-Great Sword: 1700
-Cape: 100
+Armor: 2250 **^**
+Great Sword: 1800 **^**
+Cape: 100 
 
 Kraken Core: 75
 
@@ -139,7 +139,7 @@ Susanoo: 250
 ## First Christmas Event
 Elf Hat: 100
 Santa Hat: 800
-Bell: 550
+Bells: 550
 Candy Cane: 92500 **^**
 
 ## First Valentine Event
@@ -186,7 +186,7 @@ Festival shield: 200
 ## Battle Royale
 World ender: 10000 **^**
 Iceborn dagger: 800
-Iceborn rapier: 3050 **^** 
+Iceborn rapier: 3100 **^** 
 Ten Tails Jinchuriki: 600
 Thunder Haori: 450
 Black bull: 200
