@@ -1,1 +1,37 @@
+# TRADING BOT FAQ
 
+## Como funciona o bot?
+
+### Comandos
+use o comando `!VerifyTrade` e os adds para que o bot verifique a qualidade da trade. Depois do comando coloque os primeiros adds, "for" e o resto dos adds, porque assim o bot vai comparar os valores de antes e depois de "for":
+`!VerifyTrade Mera for Mochi`
+
+use o comando `!ColorText` e os parâmetros para criar um texto personalizado para seu trading sign. Para criar tal texto use o comando da seguinte forma:
+`!ColorText [message] * [hex_color]`
+no codigo acima o parâmetro **message** é onde fica a mensagem e **hex_color** é onde fica um codigo de cor hex. para criar um codigo de cor hex use o comando `!ColorRGB`. Um exemplo do codigo:
+`!ColorText Send Trades * #ff0000`
+
+o comando `!ColorRGB` foi criado para dar suporte as pessoas que precisam do codigo de cor hex para usar o comando `!ColorText`. Para usar este comando você precisa de um codigo de cor RGB. Caso não tenha tal codigo envie a mensagem "!ColorRGB" e o Trading Bot vai retornar uma mensagem de erro, e nesta mensagem tem um site que gera codigos de cor RGB.
+`!ColorText 0,255,0`
+no exemplo a cima o codigo de cor foi "0,255,0".
+
+
+### Trading values
+A cada 30 minutos o bot atualiza a lista de trading values em todos os servidores em que ele está presente. E a versão do trading values é quantas vezes os trading values foram atualizados.
+
+## O bot não está reconhecendo os Adds
+
+Se o bot não estiver reconhecendo os Adds que você inseriu, verifique os seguintes exemplos para identificar possíveis problemas:
+
+### Caso 1: Erro de escrita
+Certifique-se de que os Adds estão escritos exatamente como estão listados no **Trading Values**, por exemplo: `Mera` e `Mochi`.
+Comando incorreto: `!VerifyTrade mera for mochi`
+
+### Caso 2: Erro de formatação
+Normalmente, os Adds devem ser inseridos exatamente como estão no **Trading Values**. No entanto, há uma exceção quando o nome do Add possui espaços, como por exemplo: `Spare-fruit-bag`. Nesse caso, é necessário substituir os espaços por "-".
+
+### Caso 3: Erro no emoji
+Os emojis dos Adds podem apresentar problemas se não houver espaços entre eles. Por exemplo:
+`🤖🙂😪😘😊😑😮😃`
+Isso está incorreto porque os emojis não devem estar colados 100% juntos. O bot não consegue ler emojis quando estão agrupados dessa forma. Para corrigir, coloque espaços entre os emojis:
+``🤖 🙂 😪 😘 😊 😑 😮 😃``
