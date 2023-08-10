@@ -1,7 +1,7 @@
 # Trading values
 
 ## Fruit chest:
-Rare fruit chest: 42
+Rare fruit chest: 35
 Legendary fruit chest: 150
 Mythical chest: 10250 **~**
 
@@ -15,13 +15,13 @@ Hie: 10 **~**
 Gura: 40
 Zushi: 40
 Yuki: 15
-Pika: 320
+Pika: 325
 Magu: 80
 Suna: 100
 Mera: 45
 Tori: 2850 **~**
 Mochi: 5900 **^**
-Venom: 17000 **~**
+Venom: 15000 **v**
 Ope: 8750 **~**
 Spring: 5
 
@@ -30,16 +30,16 @@ Spare fruit bag: 500
 Devil fruit journal: 400
 SP Reset: 15
 Dark root: 60
-Bomi’s log pose: 125
+Bomi’s log pose: 350
 Drip fit: 80
-Sign: 50
+Sign: 150
 Karoo: 100
-Golden hammer: 100
-Thrilled ship: 325
-Hoverboard: 1150
+Golden hammer: 370
+Thrilled ship: 350
+Hoverboard: 1200 **^**
 Coffin: 800
 Striker: 700
-All seeing eye: 20000 **^**
+All seeing eye: 20000
 
 ## Swords:
 Pole: 20
@@ -54,7 +54,7 @@ Gravity blade: 60
 Soul cane: 1700
 Pipe: 250
 Gauntlets: 200
-Kikoku: 28000 **^**
+Kikoku: 29250 **^**
 
 ## Accessory:
 White beard’s cape: 100
@@ -64,7 +64,7 @@ Tomoi drums: 500
 Musashi hat: 15
 Musashi karuta: 15
 Ryuma outfit: 30
-Ryuma Scarf: 400
+Ryuma Scarf: 500
 Pika armor: 40
 Pika helmet: 25
 Borj armor: 25
@@ -81,14 +81,14 @@ Law cape: 60
 Lucy helmet: 25
 Lucy fit: 150
 Lucy cape: 100
-Regular Soulking Violin: 100
+Regular Soulking Violin: 150 **^**
 Regular Soulking Fit: 75
 Regular Soulking TopHat: 10
-Rockstar Soulking Fit: 400
-Rockstar Soulking Guitar: 1700 **^**
-Rockstar Soulking Hat: 200
+Rockstar Soulking Fit: 600
+Rockstar Soulking Guitar: 1850 **^**
+Rockstar Soulking Hat: 300
 Rockstar Soulking Shades: 20
-Soulking Scarf: 40500 **^**
+Soulking Scarf: 38000 **v**
 
 ## Sea Beast Drops:
 Sea beast Core: 275
@@ -144,7 +144,7 @@ Candy Cane: 92500 **^**
 
 ## First Valentine Event
 Flamingo Boat: 800 
-Flowers: 13100 **^**
+Flowers: 13500 **^**
 
 ## Easter Event
 Elo hammer: 800 **~**
@@ -166,7 +166,7 @@ Baal head: 800 **~**
 ## Jester drops
 Jester hat: 100
 Jester box: 150
-Jester fit: 30500 **^**
+Jester fit: 28750 **v**
 Jester Scythe: 350
 
 ## Second Valentine Event
@@ -184,9 +184,9 @@ Festival lancer: 350
 Festival shield: 200
 
 ## Battle Royale
-World ender: 10000 **^**
-Iceborn dagger: 800
-Iceborn rapier: 3100 **^** 
+World ender: 10500 **^**
+Iceborn dagger: 950
+Iceborn rapier: 3600 **^** 
 Ten Tails Jinchuriki: 600
 Thunder Haori: 450
 Black bull: 200
@@ -200,7 +200,7 @@ Inferno Rocket Blade: 150
 Firework Lancer: 450 **^**
 
 ## Prestige
-Prestige Candy Cane: 312500 **^**
+Prestige Candy Cane: 300000 **^**
 Prestige Fruit Bag: 51850 **^**
 Prestige Inferno Rocket Blade: 170000 **^**
 Prestige Fire Work Lancer: 207000 **^**
@@ -227,4 +227,4 @@ Ice Necklace: 2
 **^** | Aumentando
 **v** | Abaixando
 
-`Valores atualizados em: 8/8/2023`
+`Valores atualizados em: 10/8/2023`
